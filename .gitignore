@@ -1,0 +1,21 @@
+# ================= FRONTEND =================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# ================= BACKEND ==================
+gym-backend/target/
+gym-backend/.mvn/
+gym-backend/.vscode/
+gym-backend/.env
+gym-backend/*.log
+gym-backend/application-*.properties
+
+# ================= IDE / OS =================
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
