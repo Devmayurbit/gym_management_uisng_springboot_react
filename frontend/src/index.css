@@ -441,7 +441,6 @@ a {
 .grid-three > *:nth-child(3) {
 	animation-delay: 0.35s;
 }
-}
 
 .field {
 	width: 100%;
